@@ -21,8 +21,8 @@ There are two ways to use PDF Protector: by downloading the ready-to-use executa
 
 ### For Users (Recommended)
 
-1.  Navigate to the [**Releases**](https://github.com/your-username/your-repository-name/releases) page of this repository.
-2.  Download the latest executable (`.exe` for Windows) from the assets list.
+1.  Navigate to the [**Releases**](https://github.com/PetterSsantos/Protetor-de-PDFs/tree/main/pdf_protector) page of this repository.
+2.  Download the latest executable (.exe for Windows) from the dist folder
 3.  Run the application. No installation is required!
 
 ### For Developers (Running from Source)
